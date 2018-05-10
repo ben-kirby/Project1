@@ -10,8 +10,8 @@
 }
 
 .mr-3{
-  max-width: 64px;
-  max-height: 64px;
+  width: 64px;
+  height: auto;
 }
 
 .jumbotron{
