@@ -15,5 +15,7 @@
 }
 
 .jumbotron{
-  
+  text-align: center;
+  background-color: #132354;
+  color: #ffffff;
 }
